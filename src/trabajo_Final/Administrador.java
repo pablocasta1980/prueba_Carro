@@ -11,8 +11,7 @@ public class Administrador extends Persona {
     // Funcionalidades adicionales del administrador
 
     public void registrarEmpleado (Empleado empleado) {
-        // Lógica para registrar un nuevo empleado en el sistema
-    	  	
+        // Lógica para registrar un nuevo empleado en el sistema    	  	
     }
 
     public void actualizarEmpleado(Empleado empleado) {
